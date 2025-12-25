@@ -1,6 +1,6 @@
 # GenZ Fashion – E-commerce Frontend
 
-**Live Project:** https://gen-z-mart-frontend.vercel.app/
+**Live Project:** https://gen-z-fashion-frontend.vercel.app/
 
 ---
 
@@ -109,7 +109,7 @@ The project is designed with performance, maintainability, and real-world e-comm
 
 ## Project Preview
 
-![GenZ Fashion Preview](https://i.ibb.co.com/LX4RM9f3/gen-Z.png)
+![GenZ Fashion Preview](https://i.ibb.co.com/8n7xFn04/IMG-20251225-WA0002.jpg)
 
 ---
 
